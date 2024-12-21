@@ -46,9 +46,9 @@ This project delves into the **Fourier Transform** (FT), a fundamental mathemati
 - MATLAB R2023b (or compatible version)
 
 ### Instructions
-1. Clone this repository:
+1. Clone this repository (using ssh key):
    ```bash
-   git clone https://github.com/username/fourier-transform-project.git
+   git clone git@github.com:Bahdjjaa/Transform-e-de-Fourier-Fourier-Tranferorm-.git
 2. Open the project in MATLAB
 3. Run the provided script to compute the Fourier transform on sample data or your own signals/images
 
